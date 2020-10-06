@@ -1,1 +1,4 @@
 ESTE ES MI PRIMER ARCHIVO PARA TRABAJAR EN GIT
+
+
+- Esta linea se agrega, siendo la segunda edicion
